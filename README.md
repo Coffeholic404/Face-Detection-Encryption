@@ -1,7 +1,7 @@
 
 # Images face Detection & Encryptyon-Decryption
 
-this is my gradution project that took me a whole month to finish  
+## This is my gradution project  
 This program utilizes the OpenCV library to detect faces in an image and applies a simple encryption and decryption algorithm to the detected faces. The encrypted faces are replaced with their encrypted versions, providing a visual representation of the encryption process.
 
 
